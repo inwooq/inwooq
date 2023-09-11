@@ -1,4 +1,4 @@
-# Hi there, I'm [Syed Abbas] 👋
+# Hi there, I'm Syed Abbas, 
 
 - 👨‍🎓 I'm a data science enthusiast currently studying data science.
 - 💻 I'm passionate about programming and constantly exploring new technologies.
